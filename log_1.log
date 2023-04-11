@@ -1,0 +1,4 @@
+date: 2023-04-11 17:02:23.646076 | function: hello_world | args: () | kwargs: {} | result: Hello World
+date: 2023-04-11 17:02:23.647289 | function: summator | args: (2, 2) | kwargs: {} | result: 4
+date: 2023-04-11 17:02:23.649298 | function: div | args: (6, 2) | kwargs: {} | result: 3.0
+date: 2023-04-11 17:02:23.649298 | function: summator | args: (4.3,) | kwargs: {'b': 2.2} | result: 6.5
